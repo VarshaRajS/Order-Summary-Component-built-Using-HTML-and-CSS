@@ -2,7 +2,10 @@
 
 ## Table of contents
 
+  - [Overview]
+  - [Challenge]
   - [Built with]
+  - [Live link]
   - [What I learned]
   - [Continued development]
   - [Useful resources]
@@ -22,6 +25,12 @@
 
   - HTML
   - CSS 
+ 
+### Live Link
+
+  - This is the live link to the project
+  ( https://varsharajs.github.io/OrderSummmaryComponent.github.io/ )
+
 
 ### What I learned
 
